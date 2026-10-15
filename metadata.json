@@ -1,0 +1,6 @@
+{
+  "name": "AURA ACOUSTICS - Premium Speaker & Sound Systems",
+  "description": "Premium e-commerce platform for high-performance audiophile speakers, home theatre, and portable sound systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
